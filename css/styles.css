@@ -232,8 +232,8 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin-top: 32px;
     margin-bottom: 8px;
+    
 }
 
 .position {
@@ -243,7 +243,6 @@ img {
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
-        margin-bottom: 32px;
 }
 
 /* ============================4th section=======================*/
@@ -283,7 +282,7 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-align: center;
+    text-align: left;
     margin-bottom: 8px
 }
 
@@ -293,7 +292,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    text-align: center;
+    text-align: left;
 }
 .portfolio-li-div {
     border-bottom: 1px solid #e7e9fc;
