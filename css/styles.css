@@ -222,6 +222,7 @@ img {
     border-radius: 0px 0px 4px 4px;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
+    margin-bottom: 120px;
     
 }
 
@@ -232,7 +233,8 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin: 72px;
+    margin-top: 32px;
+    margin-bottom: 8px;
 }
 
 .position {
@@ -242,10 +244,9 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    margin-bottom: 32px;
 }
-.fst-tm-lst-itm {
-
-}
+.fst-tm-lst-itm 
 .scnd-tm-lst-itm
 .thrd-tm-lst-itm
 .frth-tm-lst-itm
